@@ -1,5 +1,4 @@
 # Smart-habit-tracker
-# Smart Habit Tracker API
 
 ## Overview
 The **Smart Habit Tracker API** helps users track their daily habits. Users can add new habits, mark them as completed, and view progress reports. The API also sends reminders and generates weekly progress reports.
